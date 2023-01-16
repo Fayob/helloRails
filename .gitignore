@@ -30,3 +30,7 @@
 # Ignore master key for decrypting credentials and more.
 /config/master.key
 /config/local_env.yml
+
+# Ignore ds_store and vscode directory
+.DS_Store
+.vscode
